@@ -1,9 +1,3 @@
-from aiogram import executor, types
-from aiogram.types import ReplyKeyboardMarkup, ReplyKeyboardRemove
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-import handlers
-import time
-
 
 PREFIX = "!/."
 
